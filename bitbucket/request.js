@@ -26,7 +26,7 @@ var Request = exports.Request = function(options) {
         path        : '/1.0',
         hostname    : "api.bitbucket.org",
         format      : 'json',
-        user_agent  : 'js-bitbucket-api (http://github.com/ajaxorg/node-bitbucket)',
+        user_agent  : 'js-bitbucket-api (http://github.com/c9open/node-bitbucket)',
         http_port   : 443,
         timeout     : 20,
         login_type  : "none",

@@ -3,11 +3,11 @@
     "version" : "0.0.2",
     "description" : "Wrapper for the BitBucket API",
     "author": "Fabian Jakobs <fabian.jakobs@web.de>",
-    "homepage": "http://github.com/ajaxorg/node-bitbucket.git",
+    "homepage": "http://github.com/c9open/node-bitbucket.git",
     "main" : "./bitbucket",
     "repository" : {
         "type" : "git",
-        "url" : "http://github.com/ajaxorg/node-bitbucket.git"
+        "url" : "http://github.com/c9open/node-bitbucket.git"
     },
     "engine" : ["node >=0.4.0"],
     "dependencies": {
